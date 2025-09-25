@@ -1,6 +1,6 @@
 # Amigo Secreto
 
-Este projeto é uma aplicação web simples e divertida para sortear "amigos secretos" de forma aleatória, feita como a conclusão do programa **ONE (Oracle Next Education)**, desenvolvido pela **Alura** em parceria com a **Oracle**.
+Este projeto é uma aplicação web simples e divertida para sortear "amigos secretos" de forma aleatória, feita como a primeira conclusão inicial do programa **ONE (Oracle Next Education)**, desenvolvido pela **Alura** em parceria com a **Oracle**.
 
 Foi um projeto muito prazeroso de desenvolver, pois me permitiu aplicar e consolidar os conhecimentos adquiridos ao longo do curso de forma prática e criativa. Estou muito feliz e orgulhoso por ter concluído mais essa etapa!
 
